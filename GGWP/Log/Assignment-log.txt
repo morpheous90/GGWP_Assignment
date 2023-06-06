@@ -1,0 +1,34 @@
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:43:00
+Please Enter details correctly -06/06/2023 15:43:00
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:43:29
+Please Enter details correctly -06/06/2023 15:43:29
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:44:11
+Please Enter details correctly -06/06/2023 15:44:11
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:46:59
+User: dhsajd is Registered - 06/06/2023 15:47:12
+User: dhsajd , EmailId dask.dlaskd@gmail.com Successfully logged in - 06/06/2023 15:47:12
+dhsajd Loggin in - 06/06/2023 15:47:17
+User with EmailId: dask.dlaskd@gmail.com successfully logged in - 06/06/2023 15:47:25
+Searching for Item: Blue Jeans
+jeans Found - 06/06/2023 15:47:36
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:52:36
+Please Enter details correctly -06/06/2023 15:52:36
+
+
+Selenium .dll Imported Successfully -  06/06/2023 15:54:19
+User: dasdhajs is Registered - 06/06/2023 15:54:32
+User: dasdhajs , EmailId djkasdjka.jsdak@gmail.com Successfully logged in - 06/06/2023 15:54:32
+dasdhajs Loggin in - 06/06/2023 15:54:37
+User with EmailId: djkasdjka.jsdak@gmail.com successfully logged in - 06/06/2023 15:54:45
+Searching for Item: Blue Jeans
+jeans Found - 06/06/2023 15:54:56
